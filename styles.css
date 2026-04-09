@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════════════════
-   CA ESTUDIO DE BELLEZA — styles.css
+    CA ESTUDIO DE BELLEZA — styles.css
    ══════════════════════════════════════════════════════════ */
 
 /* ── VARIABLES ── */
@@ -26,7 +26,7 @@ body {
 }
 
 /* ══════════════════════════════════════
-   NAVEGACIÓN
+    NAVEGACIÓN
 ══════════════════════════════════════ */
 nav {
   position: fixed;
@@ -131,7 +131,7 @@ nav {
 }
 
 /* ══════════════════════════════════════
-   HERO — INICIO
+    HERO — INICIO
 ══════════════════════════════════════ */
 #inicio {
   min-height: 100vh;
@@ -303,7 +303,7 @@ h1 em {
 }
 
 /* ══════════════════════════════════════
-   UTILIDADES DE SECCIÓN
+    UTILIDADES DE SECCIÓN
 ══════════════════════════════════════ */
 .section-inner {
   max-width: 1100px;
@@ -337,7 +337,7 @@ h1 em {
 }
 
 /* ══════════════════════════════════════
-   SOBRE EL ESTUDIO
+    SOBRE EL ESTUDIO
 ══════════════════════════════════════ */
 #sobre-el-estudio {
   padding: 110px 5vw;
@@ -392,7 +392,7 @@ h1 em {
 }
 
 /* ══════════════════════════════════════
-   SERVICIOS
+    SERVICIOS
 ══════════════════════════════════════ */
 #servicios {
   padding: 110px 5vw;
@@ -477,7 +477,7 @@ h1 em {
 }
 
 /* ══════════════════════════════════════
-   GALERÍA
+    GALERÍA
 ══════════════════════════════════════ */
 #galeria {
   padding: 110px 5vw;
@@ -550,7 +550,7 @@ h1 em {
 .gallery-placeholder p   { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; }
 
 /* ══════════════════════════════════════
-   CONTACTO / RESERVA
+    CONTACTO / RESERVA
 ══════════════════════════════════════ */
 #contacto {
   padding: 110px 5vw;
@@ -723,7 +723,7 @@ h1 em {
 }
 
 /* ══════════════════════════════════════
-   UBICACIÓN
+    UBICACIÓN
 ══════════════════════════════════════ */
 #ubicacion {
   padding: 80px 5vw;
@@ -788,7 +788,7 @@ h1 em {
 .map-area iframe { width: 100%; height: 100%; border: none; }
 
 /* ══════════════════════════════════════
-   FOOTER
+    FOOTER
 ══════════════════════════════════════ */
 footer {
   background: #1a0930;
@@ -825,7 +825,7 @@ footer {
 .footer-copy { font-size: 12px; color: rgba(255, 255, 255, 0.2); letter-spacing: 0.5px; }
 
 /* ══════════════════════════════════════
-   SCROLL REVEAL
+    SCROLL REVEAL
 ══════════════════════════════════════ */
 .reveal {
   opacity: 0;
@@ -838,7 +838,7 @@ footer {
 }
 
 /* ══════════════════════════════════════
-   RESPONSIVE
+    RESPONSIVE
 ══════════════════════════════════════ */
 @media (max-width: 900px) {
   .nav-links       { display: none; }
